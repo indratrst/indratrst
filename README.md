@@ -12,8 +12,8 @@ React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Vue.js
 
 ## Featured Projects
 - Portfolio Website
-- Learning Management System
-- Company Profile Website
+- Ecommerce
+
 
 ## Contact
 LinkedIn: https://linkedin.com/in/indratrst
