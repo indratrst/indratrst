@@ -49,7 +49,7 @@ A modern and responsive portfolio website built with Next.js, TypeScript, and Ta
 
 
 # Personal Portfolio Website
-- LinkedIn: https://linkedin.com/in/indratrts
+- LinkedIn: https://linkedin.com/in/indratrst
 - GitHub: https://github.com/indratrst
 
 
