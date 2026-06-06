@@ -16,10 +16,8 @@ React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Vue.js
 - Company Profile Website
 
 ## Contact
-Portfolio: https://indratrst-portofolio.vercel.app/
 LinkedIn: https://linkedin.com/in/indratrst
 Email: indratrst@gmail.com
-
 
 # Personal Portfolio Website
 
@@ -41,14 +39,14 @@ A modern and responsive portfolio website built with Next.js, TypeScript, and Ta
 
 - Responsive Design
 - Dark Theme UI
-- Multi-language Support (ID / EN)
 - Project Showcase
 - Experience Timeline
-- Contact Section
 
 ## 📷 Preview
 
 ![Portfolio Preview](./preview.png)
+
+
 
 ## 📬 Contact
 
