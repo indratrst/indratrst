@@ -16,6 +16,11 @@ React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Vue.js
 - Company Profile Website
 
 ## Contact
-Portfolio: https://yourportfolio.com
-LinkedIn: https://linkedin.com/in/...
-Email: ...
+Portfolio: https://indratrst-portofolio.vercel.app/
+LinkedIn: https://linkedin.com/in/indratrst
+Email: indratrst@gmail.com
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
