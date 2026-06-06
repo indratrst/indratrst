@@ -21,6 +21,41 @@ LinkedIn: https://linkedin.com/in/indratrst
 Email: indratrst@gmail.com
 
 
+# Personal Portfolio Website
+
+A modern and responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS to showcase my professional experience, projects, and technical skills.
+
+## 🚀 Live Demo
+
+👉 https://indratrst-portofolio.vercel.app/
+
+## 🛠 Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Vercel
+
+## ✨ Features
+
+- Responsive Design
+- Dark Theme UI
+- Multi-language Support (ID / EN)
+- Project Showcase
+- Experience Timeline
+- Contact Section
+
+## 📷 Preview
+
+![Portfolio Preview](./preview.png)
+
+## 📬 Contact
+
+- Portfolio: https://indratrst-portofolio.vercel.app/
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/indratrst
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
